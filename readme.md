@@ -1,4 +1,5 @@
-Tareas:
+
+<h2>Tareas:</h2>
 
 1. Instalar extensión para debuguear c++
 2. Hacer un proyecto sencillo
